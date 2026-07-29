@@ -53,7 +53,7 @@ Social vulnerability and obesity showed strong positive relationships with diabe
 
 ### Correlation Matrix
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](./images/correlation_matrix.png)
 
 The correlation analysis suggested that counties with higher social vulnerability and obesity prevalence also tended to have higher diabetes
 prevalence.
@@ -120,7 +120,7 @@ On average, predicted diabetes prevalence differed from observed prevalence by a
 
 ### Actual vs. Predicted
 
-![Actual vs Predicted Diabetes Prevalence](images/actual_vs_predicted.png)
+![Actual vs Predicted Diabetes Prevalence](./images/actual_vs_predicted.png)
 
 Predictions generally followed the perfect prediction line, although some counties with very high diabetes prevalence were still underestimated.
 
@@ -132,7 +132,7 @@ Feature importance from the final Gradient Boosting model was used to examine wh
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](./images/feature_importance.png)
 
 Social vulnerability provided the strongest predictive information, followed by obesity prevalence.
 
